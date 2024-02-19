@@ -1,0 +1,31 @@
+.adjust-ul{
+    position: relative;
+    top: 25%;
+    margin-left: 4%;
+    
+}
+
+.remove-dot{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body{
+    height: 500px;
+}
+
+.hello{
+    font-size: 1.5vw;
+}
+
+.name{
+    font-size: 2vw;
+}
+
+.desc{
+    font-size: 1.5vw;
+}
+
+.btn-download{
+    font-size: 1vw;
+}
