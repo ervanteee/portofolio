@@ -1,4 +1,4 @@
-<?php include_once('head.php') ?>
+<?php include_once('/var/task/user/component/head.php') ?>
 <div class="d-flex justify-content-around align-content-center ">
 <nav class="navbar navbar-expand-lg nav-color" id="navbar-id">
   <a class="navbar-brand ms-5 text-white" href="#home-nav">Portofolio</a>
