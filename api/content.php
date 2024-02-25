@@ -5,7 +5,7 @@
     <div class="d-flex justify-content-center " id="home-nav">
         <div class="row d-flex align-items-center justify-content-between">
             <div class="col-12 col-sm-12 col-lg-2 profile-img-respon">
-            <img src="img/pas_poto_baru-biru.png" alt=""id="circle" class="border-img profile-img"  >
+            <img src="pas_poto_baru-biru.png" alt=""id="circle" class="border-img profile-img"  >
             </div>
                 <div class="position-relative ul-adjust ms-5 col-12 col-sm-12 col-lg-8 text-profile-respon">
                     <ul class="text-white remove-dot mb-0 ul-adjust">
