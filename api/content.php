@@ -1,4 +1,4 @@
-<?php include_once('head.php') ?>
+<?php include_once('/../../../../head.php') ?>
 <body class="body">
 <main class="bg-home">
     <div class="d-flex justify-content-center " id="home-nav">
