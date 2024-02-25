@@ -13,6 +13,6 @@ if($_SERVER['REQUEST_METHOD'] === 'GET'){
     echo json_encode(array('error' => 'Method Not Allowed'));
 }
 
-include('component/content.php');
+include('../../content.php');
 
 ?>
