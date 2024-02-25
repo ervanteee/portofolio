@@ -1,5 +1,4 @@
-<?php include_once('/var/task/user/component/head.php') ?>
-<?php include_once('/var/task/user/component/navbar.php') ?>
+<?php include_once('component/head.php') ?>
 
 <body class="body">
 <main class="bg-home">
